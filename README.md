@@ -2,7 +2,8 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-I'm currently working on myself, learning web developpement.
+* 🔭 I'm currently working on myself.
+- 🌱 I'm learning web developpement.
 
 <!--
 **ArnaudPithon/ArnaudPithon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
