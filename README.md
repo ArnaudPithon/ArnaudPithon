@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Arnaud Pithon 👋
+
+Open Source Love
+
+I'm currently working on myself, learning web developpement.
 
 <!--
 **ArnaudPithon/ArnaudPithon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
