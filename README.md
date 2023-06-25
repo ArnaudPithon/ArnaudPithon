@@ -1,6 +1,6 @@
 ### Hi there, I'm Arnaud Pithon 👋
 
-https://github.com/ellerbrock/open-source-badges/
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 I'm currently working on myself, learning web developpement.
 
