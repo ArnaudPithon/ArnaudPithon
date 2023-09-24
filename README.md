@@ -6,7 +6,9 @@
 
 ## Contact
 
-[![LinkedIn](https://camo.githubusercontent.com/8fdc1cc04c29ee0548aa86f0c3d3ca9b4e1736b51e60dbf94baf4f8aa37f411a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e)](https://www.linkedin.com/in/arnaud-pithon/)
+[![LinkedIn](./assets/imgs/linkedin.svg)](https://www.linkedin.com/in/arnaud-pithon/)
+[![CodinGame](./assets/imgs/codingame.png)](https://www.codingame.com/profile/9ad53a27b2eb5a0ed61249d8d940bc6f2675355)
+[![FreeCodeCamp](./assets/imgs/freecodecamp.png)](https://www.freecodecamp.org/icarios)
 
 <!--
 **ArnaudPithon/ArnaudPithon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
