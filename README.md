@@ -2,7 +2,7 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-- 🧑‍💻 Web developer passionate about **clean, maintainable code** and **user experience**.  
+- 🧑‍💻 Developer passionate about **clean, maintainable code** and **user experience**.  
 - 🛠️ Crafting developer utilities for **Neovim** — with a focus on **usability, security, and clarity**.  
 - 🌱 Always learning and improving — because code should serve people first.
 
